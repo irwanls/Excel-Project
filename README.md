@@ -25,7 +25,7 @@ Dengan menjawab pertanyaan tersebut, analisis diharapkan dapat membantu perusaha
 
 ## Data Understanding
 
-Dataset yang digunakan berasal dari **Kaggle – Employee Data** dengan periode data **Agustus 2018 hingga Agustus 2023**.
+Dataset yang digunakan berasal dari [**Kaggle – Employee Data**](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset) dengan periode data **Agustus 2018 hingga Agustus 2023**.
 
 Dataset awal terdiri dari:
 
