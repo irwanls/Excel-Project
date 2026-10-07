@@ -115,7 +115,7 @@ Dengan demikian, **Production menjadi departemen utama yang perlu mendapatkan pe
 
 ---
 
-## Conclusion
+## Kesimpulan
 
 Berdasarkan hasil analisis, sebagian besar tenaga kerja dalam dataset masih berstatus aktif dan secara keseluruhan memiliki performa yang cukup baik, karena mayoritas karyawan berada pada kategori **Fully Meets** dan **Exceeds**.
 
@@ -129,7 +129,7 @@ Dengan demikian, hasil analisis tidak hanya menunjukkan kondisi performa karyawa
 
 ---
 
-## Recommendation
+## Rekomendasi
 
 Berdasarkan hasil analisis, terdapat dua rekomendasi utama:
 
@@ -158,6 +158,7 @@ Workbook proyek juga dibagi menjadi beberapa bagian utama:
 
 ---
 
-## Key Insight
+## Kontak
+[**Linkedin**](https://www.linkedin.com/in/irwanls/)
 
-> Mayoritas karyawan aktif memiliki performa yang baik, tetapi distribusi penilaian antar-departemen tidak sepenuhnya seragam. Production menjadi prioritas utama evaluasi karena memiliki jumlah karyawan underperform paling besar, sementara pola penilaian pada departemen lain seperti Software Engineering menunjukkan perlunya evaluasi terhadap konsistensi standar penilaian performa.
+[**WhatsApp**](https://wa.me/6285363679097)
